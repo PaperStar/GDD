@@ -1,0 +1,2 @@
+# GDD
+Game Design Document
