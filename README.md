@@ -638,6 +638,8 @@ Boss 呈现残破样式，从黑洞中逃走。
 
 ### 片头动画
 
+- [line-plane.mov](./video/line-plane.mov)
+
 <video src="./video/line-plane.mov" controls="controls">
 您的浏览器不支持 video 标签。
 </video>
